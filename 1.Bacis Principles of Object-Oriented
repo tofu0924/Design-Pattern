@@ -1,0 +1,9 @@
+Basic Principles of Object-Oriented
+
+1.Abstraction : 특정 객체를 attributes와 operate로 기술하는, 추상화하는 것.
+2.Encapsulation : information hiding
+3.Inheritance : 상위 클래스를 상속받아 하위 클래스에서 재활용
+4.Polymorphism : 같은 함수라도 상황에 따라 다른 동작을 할 수 있도록 구현.
+5.Compositioin : runtime에 polymorphism을 구현하는 방법
+6.Abstract : abstract(new 못함)
+7.Interface Class :  interface(attributes 없음)
