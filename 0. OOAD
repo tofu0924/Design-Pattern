@@ -1,0 +1,39 @@
+Object Oriented Analysis and Design(객체 지향 분석 및 설계) 뜻으로 객체 지향 프로그램을 위한 소프트웨어 개발 방법론.
+
+Software Development
+1. Natural Language로 Descriptions of Problems
+2. Programming Language로 Descriptions of Solutions
+3. Program Execution with Computer System.
+
+1~3의 과정을 => Software Development라고 한다.
+
+여기서 Procedural Programming(C type) 개발 방법을하면 -> SASD(Structured Analysis and Stuctured Design)
+(*순서의 나열, 함수 호출 기반)
+Object-Oriented Programming(C++ type) 개발이면 -> OOAD이다.
+
+
+Procedural Programming에 대해 쪼금 더 설명하자면
+프로그램을 순서에 따라 만들고, 특정 순서에 필요한 함수가 무엇이고 어떤 결과 값을 순서에따라 받고 넘겨주는 로직으로 개발을 하는 것이다.
+이 개발 방법론에서는 어떤 알고리즘을 사용할지 어떤 데이터 구조를 사용할지가 중요하다.
+Top-Down, Divide and Conquer 방법으로 문제를 접근한다.
+DFD(Data Flow Diagram)를 사용하여 procedure을 표현한다.
+
+
+Object-Oriented Programming은 Objects를 잘 조직화하고, Objects간 communication을 잘 정의하며 개발하는 개발 방법이다.
+function들은 Objects communication을 통해 구현된다.
+OOAD = OOA(객체 지향 분석)+ OOD(객체 지향 설계)
+OOA
+- use case(말로 잘 설명함).
+- domain model(간단하게 규칙이나, 상황을 나타나게 표현)
+OOD
+- sequence diagram(Objects 간 communication의 순서도
+- Design Class diagram
+
+
+Software process model
+- waterfall model = (use case → domain model → sequence diagram → design class diagram)의 순서로 개발하는 것
+- Iterative model = waterfall model의 반복으로 프로그램을 개선하며 개발하는 방법
+
+
+
+
